@@ -66,7 +66,7 @@ Follow the below instructions in bash to install and set up necessary dependenci
 
 1. Clone the repository:
 
-git clone https://github.com/MMALLIKARJUN2312/Personal-Expense-Tracker.git
+git clone [https://github.com/MMALLIKARJUN2312/Personal-Expense-Tracker.git](https://github.com/MMALLIKARJUN2312/Personal_Expense_Tracker)
 cd personal-expense-tracker
 Initialize the project: Initialize a new Node.js project by running:
 
